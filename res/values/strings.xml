@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Troll</string>
+    <string name="action_settings">Settings</string>
+    <string name="trollol">trollololol</string>
+    <string name="Button">Click The Button!</string>
+    <string name="title_activity_troll_face">TrollFaceActivity</string>
+    <string name="Welcome">Welcome To The Troll App. Click the button to have fun!</string>
+
+</resources>
